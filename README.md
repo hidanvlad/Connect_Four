@@ -26,6 +26,14 @@ javac -d bin src/main/java/com/connectfour/*.java
 
 ## How to Run
 
+### Using the run script (Linux/Mac):
+
+```bash
+./run.sh
+```
+
+### Manual compilation and run:
+
 ```bash
 java -cp bin com.connectfour.Main
 ```
